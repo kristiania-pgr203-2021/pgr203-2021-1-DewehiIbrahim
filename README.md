@@ -35,12 +35,12 @@ Det anbefales at dere bruker Discord og Github for remote parprogrammering og ta
 * Github
   * [ ] Dere har en Git branch som viser parprogrammering der dere sjekker inn annenhver gang
   * [ ] Dere har mottatt code review fra medstudenter
-  * [ ] `.idea`, `*.iml` og `target` er lagt til i .gitignore og ikke sjekket inn
-  * [ ] Github Actions rapporterer at 100% av testene kjører grønt
-  * [ ] GitHub Actions skal ha `timeout` på bygget
+  * [X] `.idea`, `*.iml` og `target` er lagt til i .gitignore og ikke sjekket inn
+  * [X] Github Actions rapporterer at 100% av testene kjører grønt
+  * [X] GitHub Actions skal ha `timeout` på bygget
   * [ ] Dere har opprettet og resolved GitHub issues med link til commits
 * Kode
-  * [ ] Koden skal være korrekt strukturert etter Maven sine standarder (koden skal ligge under `src/main/java` og tester under `src/test/java`)
+  * [X] Koden skal være korrekt strukturert etter Maven sine standarder (koden skal ligge under `src/main/java` og tester under `src/test/java`)
   * [ ] Klassene skal ligge i Java packages
   * [ ] Koden inneholder en testklasse med 4-7 testmetoder
   * [ ] Klassenavn, pakkenavn, metodenavn og variabelnavn skal følge Java-konvensjoner når det gjelder små og store bokstaver
