@@ -6,7 +6,10 @@ public class ToRomanConverter {
         int romanResult = number;
         String output = "";
 
-        if (romanResult >= 1 ){
+        if (romanResult >= 4){
+            output += "IV";
+            romanResult = romanResult -1;
+        } else if (romanResult >= 1 ){
             output += "I";
             romanResult = romanResult -1;
         }
