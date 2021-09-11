@@ -41,7 +41,7 @@ Det anbefales at dere bruker Discord og Github for remote parprogrammering og ta
   * [ ] Dere har opprettet og resolved GitHub issues med link til commits
 * Kode
   * [X] Koden skal være korrekt strukturert etter Maven sine standarder (koden skal ligge under `src/main/java` og tester under `src/test/java`)
-  * [ ] Klassene skal ligge i Java packages
+  * [x] Klassene skal ligge i Java packages
   * [ ] Koden inneholder en testklasse med 4-7 testmetoder
   * [ ] Klassenavn, pakkenavn, metodenavn og variabelnavn skal følge Java-konvensjoner når det gjelder små og store bokstaver
   * [ ] Koden skal være korrekt indentert
