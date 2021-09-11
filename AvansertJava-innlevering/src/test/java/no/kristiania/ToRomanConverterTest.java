@@ -14,6 +14,9 @@ public class ToRomanConverterTest {
     @Test
     void Convert6ToV(){assertEquals("VI", ToRomanConverter.ToRoman(6));}
 
+    @Test
+    void Convert9ToIX(){assertEquals("IX", ToRomanConverter.ToRoman(9));}
+
 
 
 
