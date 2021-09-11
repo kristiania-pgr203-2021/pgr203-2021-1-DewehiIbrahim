@@ -13,6 +13,10 @@ public class ToRomanConverter {
             output += "I";
             romanResult = romanResult -1;
         }
+        if  (romanResult >= 6){
+            output +="VI";
+            romanResult = romanResult -1;
+        }
 
 
      return output;
