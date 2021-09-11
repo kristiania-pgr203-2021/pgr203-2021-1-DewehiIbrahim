@@ -2,6 +2,8 @@ package no.kristiania;
 
 public class Main {
     public static void main(String[] args) {
-        ToRomanConverter.tesToRoman(3);   ;
+        System.out.println(ToRomanConverter.tesToRoman(187));
+       // ToRomanConverter.tesToRoman(12);
+
     }
 }
