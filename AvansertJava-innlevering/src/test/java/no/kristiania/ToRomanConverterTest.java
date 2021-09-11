@@ -17,6 +17,9 @@ public class ToRomanConverterTest {
     @Test
     void Convert9ToIX(){assertEquals("IX", ToRomanConverter.tesToRoman(9));}
 
+    @Test
+    void Convert223ToCCXXIII(){assertEquals("CCXXIII", ToRomanConverter.tesToRoman(223));}
+
 
 
 
