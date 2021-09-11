@@ -5,6 +5,9 @@ public class ToRomanConverter {
     public static String ToRoman(int number) {
         int romanResult = number;
         String output = "";
+        if  (romanResult >= 9){
+            output +="IX";
+            romanResult = romanResult -1;
 
         if  (romanResult >= 6){
             output +="VI";
