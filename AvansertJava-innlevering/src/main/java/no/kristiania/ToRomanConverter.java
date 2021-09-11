@@ -7,9 +7,10 @@ public class ToRomanConverter {
     static String[] rn_I = {"", "I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX"};
 
 
-        public static void tesToRoman(int num){
+        public static String tesToRoman(int num){
 
             System.out.println(rn_I[num]);
+            return rn_I[num];
 
 
 
