@@ -33,6 +33,7 @@ public class ToRomanConverter {
             } else if (num <= 3999){
                 output= rn_M[spilt(total,0,1)]+rn_C[spilt(total,1,2)]+rn_X[spilt(total,2,3)]+rn_I[spilt(total,3,4)];
         }
+            System.out.println(num + " is " + output + " in Roman");
             return output;
  }
 
