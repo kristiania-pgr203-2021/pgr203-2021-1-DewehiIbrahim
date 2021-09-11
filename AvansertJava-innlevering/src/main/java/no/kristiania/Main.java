@@ -9,7 +9,7 @@ public class Main {
         int scanNumber = scanner.nextInt();
 
         if (scanNumber <= 1 || scanNumber > 3999){
-            System.out.println(" Pliz type in a number between 1 and 3999");
+            System.out.println(" type in a number between 1 and 3999");
 
         } else {
             ToRomanConverter.tesToRoman(scanNumber);
