@@ -30,7 +30,7 @@ Det anbefales at dere bruker Discord og Github for remote parprogrammering og ta
 * Innlevering
   * [ ] Begge har levert link til Github Repository i Canvas
   * [ ] Dere har lastet opp zip-fil på Canvas
-  * [ ] Koden er sjekket inn på et repository på https://github.com/kristiania-pgr203-2021
+  * [x] Koden er sjekket inn på et repository på https://github.com/kristiania-pgr203-2021
   * [ ] GitHub repository er private. Dere skal gi tilgang til de som gir code review
 * Github
   * [ ] Dere har en Git branch som viser parprogrammering der dere sjekker inn annenhver gang
@@ -42,13 +42,13 @@ Det anbefales at dere bruker Discord og Github for remote parprogrammering og ta
 * Kode
   * [X] Koden skal være korrekt strukturert etter Maven sine standarder (koden skal ligge under `src/main/java` og tester under `src/test/java`)
   * [x] Klassene skal ligge i Java packages
-  * [ ] Koden inneholder en testklasse med 4-7 testmetoder
-  * [ ] Klassenavn, pakkenavn, metodenavn og variabelnavn skal følge Java-konvensjoner når det gjelder små og store bokstaver
-  * [ ] Koden skal være korrekt indentert
-  * [ ] Koden kan oversette alle romertall fra 1-3999 (fra I til MMMCMXCIX)
+  * [x] Koden inneholder en testklasse med 4-7 testmetoder
+  * [x] Klassenavn, pakkenavn, metodenavn og variabelnavn skal følge Java-konvensjoner når det gjelder små og store bokstaver
+  * [x] Koden skal være korrekt indentert
+  * [x] Koden kan oversette alle romertall fra 1-3999 (fra I til MMMCMXCIX)
 * README-fil
   * [ ] Link til video av parprogrammering
-  * [ ] Korrekt GitHub Actions status badge
+  * [x] Korrekt GitHub Actions status badge
   * [ ] Eksempel på bruk
 * Video av parprogrammering viser:
   * [ ] Den som skriver en test gir koden til den andre for å få testen til å passere
