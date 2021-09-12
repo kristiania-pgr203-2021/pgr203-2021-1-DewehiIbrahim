@@ -1,3 +1,4 @@
+[![Java CI with Maven](https://github.com/kristiania-pgr203-2021/pgr203-2021-1-DewehiIbrahim/actions/workflows/maven.yml/badge.svg)](https://github.com/kristiania-pgr203-2021/pgr203-2021-1-DewehiIbrahim/actions/workflows/maven.yml)
 # Innlevering 1: Programmeringsferdigheter
 
 ## Oppgave
