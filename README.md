@@ -29,10 +29,10 @@ Det anbefales at dere bruker Discord og Github for remote parprogrammering og ta
 ## Krav til innlevering
 
 * Innlevering
-  * [ ] Begge har levert link til Github Repository i Canvas
-  * [ ] Dere har lastet opp zip-fil på Canvas
+  * [x] Begge har levert link til Github Repository i Canvas
+  * [x] Dere har lastet opp zip-fil på Canvas
   * [x] Koden er sjekket inn på et repository på https://github.com/kristiania-pgr203-2021
-  * [ ] GitHub repository er private. Dere skal gi tilgang til de som gir code review
+  * [x] GitHub repository er private. Dere skal gi tilgang til de som gir code review 
 * Github
   * [x] Dere har en Git branch som viser parprogrammering der dere sjekker inn annenhver gang
   * [x] Dere har mottatt code review fra medstudenter
@@ -48,10 +48,10 @@ Det anbefales at dere bruker Discord og Github for remote parprogrammering og ta
   * [x] Koden skal være korrekt indentert
   * [x] Koden kan oversette alle romertall fra 1-3999 (fra I til MMMCMXCIX)
 * README-fil
-  * [ ] Link til video av parprogrammering
+  * [x] Link til video av parprogrammering
   * [x] Korrekt GitHub Actions status badge
   * [x] Eksempel på bruk
 * Video av parprogrammering viser:
-  * [ ] Den som skriver en test gir koden til den andre for å få testen til å passere
-  * [ ] Begge skriver tester og begger får tester til å passere
-  * [ ] Dere gjør en liten refactoring med Ctrl-alt-shift-t (Windows)/ctrl-t (Mac)
+  * [x] Den som skriver en test gir koden til den andre for å få testen til å passere
+  * [x] Begge skriver tester og begger får tester til å passere
+  * [ ] Dere gjør en liten refactoring med Ctrl-alt-shift-t (Windows)/ctrl-t (Mac) (*** Vi glemte å refaktorere under video inspillingen men vi er veldig klar over at det er en feil vi gjorde ****)
