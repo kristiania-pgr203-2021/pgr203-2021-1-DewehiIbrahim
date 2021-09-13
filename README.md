@@ -2,7 +2,7 @@
 # Innlevering 1: Programmeringsferdigheter
 
 ## Oppgave
-
+youtube link legges her: 
 Lag et program som kan skrive ut tall som [romertall](https://no.wikipedia.org/wiki/Romertall). Programmet skal fungere med enhetstester og skal også kunne ta imot et input fra brukeren.
 
 ### Eksempel på bruk
@@ -34,12 +34,12 @@ Det anbefales at dere bruker Discord og Github for remote parprogrammering og ta
   * [x] Koden er sjekket inn på et repository på https://github.com/kristiania-pgr203-2021
   * [ ] GitHub repository er private. Dere skal gi tilgang til de som gir code review
 * Github
-  * [ ] Dere har en Git branch som viser parprogrammering der dere sjekker inn annenhver gang
-  * [ ] Dere har mottatt code review fra medstudenter
+  * [x] Dere har en Git branch som viser parprogrammering der dere sjekker inn annenhver gang
+  * [x] Dere har mottatt code review fra medstudenter
   * [X] `.idea`, `*.iml` og `target` er lagt til i .gitignore og ikke sjekket inn
   * [X] Github Actions rapporterer at 100% av testene kjører grønt
   * [X] GitHub Actions skal ha `timeout` på bygget
-  * [ ] Dere har opprettet og resolved GitHub issues med link til commits
+  * [x] Dere har opprettet og resolved GitHub issues med link til commits
 * Kode
   * [X] Koden skal være korrekt strukturert etter Maven sine standarder (koden skal ligge under `src/main/java` og tester under `src/test/java`)
   * [x] Klassene skal ligge i Java packages
@@ -50,7 +50,7 @@ Det anbefales at dere bruker Discord og Github for remote parprogrammering og ta
 * README-fil
   * [ ] Link til video av parprogrammering
   * [x] Korrekt GitHub Actions status badge
-  * [ ] Eksempel på bruk
+  * [x] Eksempel på bruk
 * Video av parprogrammering viser:
   * [ ] Den som skriver en test gir koden til den andre for å få testen til å passere
   * [ ] Begge skriver tester og begger får tester til å passere
