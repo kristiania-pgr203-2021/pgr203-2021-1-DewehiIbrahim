@@ -9,11 +9,11 @@ Lag et program som kan skrive ut tall som [romertall](https://no.wikipedia.org/w
 
 ```cmd
 > mvn package
-> java -classpath target/classes no.kristiania.RomanNumbers
+> java -classpath target/classes no.kristiania.Main
+Write a number you would like to convert to RomanNumeral
+200
+CC
 
-Vennligst slik skriv inn ett tall:
->200
-200 er CC
 ```
 
 ## Innlevering
