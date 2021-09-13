@@ -24,7 +24,7 @@ Dere skal ta opp en screencast på 4-7 minutter der dere parprogrammerer med rem
 
 Det anbefales at dere bruker Discord og Github for remote parprogrammering og tar opp sesjonen med Screencast-o-matic, men andre verktøy kan benyttes. Husk å åpne for tilgang til videoen ("unlisted" i Youtube) og legge inn lenke fra README.md.
 
-<link til video av parprogrammering>
+<https://www.youtube.com/watch?v=uG_3hBPO6Qk&t=80s>
 
 ## Krav til innlevering
 
